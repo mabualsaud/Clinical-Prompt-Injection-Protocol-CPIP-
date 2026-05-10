@@ -54,7 +54,6 @@ This public repository serves as a high-level technical overview of the framewor
 
 ![project preview](https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3310.png?raw=true)
 
-![project preview](https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3327.png?raw=true)
 
 ![project preview](https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3338.png?raw=true)
 
