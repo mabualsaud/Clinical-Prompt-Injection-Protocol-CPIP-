@@ -48,11 +48,10 @@ This public repository serves as a high-level technical overview of the framewor
 
 ---
 ## Projects Preview :
-i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3234.png
-i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3258.png
-i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3310.png
-i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3327.png
-i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3338.png
+![project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3234.pngi[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3258.png
+![project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3310.png
+![project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3327.png
+![project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3338.png
 
 ## 🔗Publications & Technical Articles
 
