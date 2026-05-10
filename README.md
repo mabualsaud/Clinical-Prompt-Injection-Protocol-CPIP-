@@ -48,19 +48,11 @@ This public repository serves as a high-level technical overview of the framewor
 
 ---
 ## Projects Preview :
-IMG_3234.png
-Visual images for LinkedIn Articles Protocol
-3 days ago
-IMG_3258.png
-Visual images for LinkedIn Articles Protocol
-3 days ago
-IMG_3310.png
-Visual images for LinkedIn Articles Protocol
-3 days ago
-IMG_3327.png
-Visual images for LinkedIn Articles Protocol
-3 days ago
-IMG_3338.png
+i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3234.png
+i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3258.png
+i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3310.png
+i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3327.png
+i[project preview] https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3338.png
 
 ## 🔗Publications & Technical Articles
 
