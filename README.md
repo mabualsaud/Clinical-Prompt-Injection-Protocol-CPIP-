@@ -47,13 +47,12 @@ The source code, orchestration logic, prompt weighting methodologies, and intern
 This public repository serves as a high-level technical overview of the framework architecture and research direction.
 
 ---
+## Projects Preview :
+https://github.com/mabualsaud/Clinical-Prompt-Injection-Protocol-CPIP-/blob/main/IMG_3234.png
 
 ## 🔗Publications & Technical Articles
 
 Additional articles, research discussions, and applied healthcare AI publications are available via LinkedIn:
-
-[Inser
-
 
 
 https://www.linkedin.com/posts/mai-abu-al-saud-msc-software-engineering-pmp-kfupm-pm-tricks-139b79283_aigovernance-clinicalai-responsibleai-share-7425525238211280896-Nsug?utm_source=share&utm_medium=member_ios&rcm=ACoAAEUM6H0BOO1G_Lt2kQ8QGAM-ug4UC0ipfOM
