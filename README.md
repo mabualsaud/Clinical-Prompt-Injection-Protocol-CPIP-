@@ -11,7 +11,7 @@
 ### The framework applies layered prompt architecture, behavioral guardrails, structured reasoning constraints, and Python-oriented system design principles to support safer AI interaction patterns in healthcare-related simulation scenarios.
 
 ---
-#Intellectual Property Protection
+# Intellectual Property Protection
 
 ### This invention, the Clinical Prompt Injection Protocol (CPIP), is officially protected and time-stamped on the blockchain. 
 ###The intellectual property rights for this framework are secured via a patented smart contract solution (US Patent: 11,928,748) to ensure immutable proof of authorship and creation.  
